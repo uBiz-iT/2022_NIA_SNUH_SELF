@@ -1,4 +1,3 @@
-# 2022_NIA_SNUH_SELF
 ## Application source for sleep and pulmonary function self-test data labeling and review(inspection).
 ### Introduction
 This project aims to develop labeling & inspection application program (based on Web) for self-test data. You can compare and inspect the self-test data with annotation data. This study was supported by grants from the National Information Society Agency (NIA) of Korea.
