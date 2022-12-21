@@ -3,6 +3,7 @@
 This project aims to develop labeling & inspection application program (based on Web) for self-test data. You can compare and inspect the self-test data with annotation data. This study was supported by grants from the National Information Society Agency (NIA) of Korea.
 
 ### Table of Contents
+0. Installation manual.
 1. Data definition language & stored procedure(PL/SQL).
 2. Java source code based on Web.
 3. Process program source code.
@@ -10,7 +11,6 @@ This project aims to develop labeling & inspection application program (based on
 5. User manual(for inspector).
 6. User manual(for data manager).
 7. Operator manual(for system manager).
-8. Installation manual.
 
 ### Licenses
 This software has been released under the MIT license
