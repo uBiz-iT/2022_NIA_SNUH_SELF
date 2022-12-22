@@ -10,7 +10,7 @@ This project aims to develop labeling & inspection application program (based on
 4. Linux shell script & configuration file.
 5. User manual(for inspector).
 6. User manual(for data manager).
-7. Operator manual(for system manager).
+7. Operational manual(for system manager).
 
 ### Licenses
 This software has been released under the MIT license
